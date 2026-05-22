@@ -1,7 +1,4 @@
 
-
-
-markdown
 # AI Chatbot 🤖
 
 A conversational AI chatbot built with Streamlit and Groq LLM.
